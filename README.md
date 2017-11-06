@@ -24,3 +24,13 @@ $ bin/bangs --help
 ```
 
 for more details.
+
+## Why
+
+@jarun inadvertently presented me a challenge when he introduced to me his [ddgr](https://github.com/jarun/ddgr), to which he compared to [googler](https://github.com/jarun/googler):
+
+> ... I am absolutely enjoying the DuckDyckGo Bang feature right from the terminal. ​Bangs allow you to native search ANY website, something we can never have with `googler` ...
+
+Challenge accepted ;)
+
+Some time later, out came this registry which could be plugged into any command line search tool.
