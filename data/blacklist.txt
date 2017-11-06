@@ -1,0 +1,8 @@
+# This file holds blacklisted bangs which for whatever reason is listed
+# on https://duckduckgo.com/bang_lite.html but cannot be resolved.
+#
+# Each bang should occupy a single line, e.g.
+#
+#   !tuaw
+#
+# Lines not beginning with ! are ignored.
