@@ -1,0 +1,4 @@
+PyYAML
+beautifulsoup4
+peewee
+requests
